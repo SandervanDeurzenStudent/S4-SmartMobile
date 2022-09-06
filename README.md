@@ -1,5 +1,5 @@
 # S4-SmartMobile
-My Portofolio of Semester4: Smart Mobile
+My Portofolio of Semester4: Smart Mobile.
 
 
 Links to my projects of this semester:
